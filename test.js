@@ -11,4 +11,4 @@
   floatingBtn.style.background = 'transparent';
   floatingBtn.style.border = 'none';
   floatingBtn.style.zIndex = '9999';
-}
+}();
