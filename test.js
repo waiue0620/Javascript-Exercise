@@ -2,6 +2,7 @@
   console.log('t, e, n');
   console.log(t, e, n, 't, e, n');
   const floatingBtn = document.getElementById('mantaGO-floating-button');
+  conosle.log(floatingBtn);
   floatingBtn.style.position = 'fixed'
   floatingBtn.style.width = '60px';
   floatingBtn.style.height = '60px';
