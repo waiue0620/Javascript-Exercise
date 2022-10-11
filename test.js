@@ -1,4 +1,5 @@
 !function(t, e, n) {
+  console.log('t, e, n');
   console.log(t, e, n, 't, e, n');
   const floatingBtn = document.getElementById('mantaGO-floating-button');
   floatingBtn.style.position = 'fixed'
